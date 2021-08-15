@@ -1,0 +1,3 @@
+This is a dataset containing responses of students evaluating their classes.
+The code uses clustering to identify the clusters which the students get split into, 
+in terms of satisfaction with their classes. 
