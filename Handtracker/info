@@ -1,0 +1,5 @@
+This code functions as a way to track hands shown in front of the main camera. 
+
+
+In hand tracking, there are 21 points found on the hand, 4 for each finger(including thumb) and 1 for the base of the hand. 
+This code detects those 21 points and then tracks them in real time. 
