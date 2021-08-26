@@ -1,5 +1,0 @@
-This sub-part of NumberIdentification holds the code to identify how many fingers a hand is holding up, 
-given an isolated hand. 
-
-
-The dataset used to train this model may be found at https://www.kaggle.com/koryakinp/fingers
