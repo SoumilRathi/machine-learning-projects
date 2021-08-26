@@ -1,2 +1,0 @@
-This section of HumberIdentification has been created to isolate the hand, given an input photo. 
-This isolated hand will then be sent forward to NumberAnalysis to identify the number of fingers held up by the person. 
