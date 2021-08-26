@@ -1,6 +1,5 @@
 This folder is created for storing the code for identifying which number is being shown by the hand. 
 
 
-This project was ceeated to be applied to real-life. So, this code can be used to identify which number someone is holding up in real-time. 
-The project has been split into two different parts - identifying the hand, from the input video stream, 
-and then identifying the number of fingers held up by that hand. 
+This project utilises the MediaPipe library created by Google to recognise the hand and the 21 key landmarks. 
+From there, I used x and y values of the landmarks to identify how many fingers have been held up
